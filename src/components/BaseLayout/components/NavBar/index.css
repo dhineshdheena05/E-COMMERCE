@@ -1,0 +1,33 @@
+.navbar {
+  display: flex;
+  background: rgb(255, 4, 4);
+  height: 3.5em;
+  justify-content: left;
+  align-items: center;
+  box-shadow: none;
+}
+
+.navbar ul {
+  display: flex;
+  list-style: none;
+  width: 90vw;
+  margin: 0;
+  height: 3em;
+  align-items: center;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.navbar li a {
+  text-decoration: none;
+  margin: 0 1em;
+  color: rgb(14, 14, 14);
+  transition: 0.5s;
+  font-weight: bold;
+  font-size: medium;
+}
+
+.navbar li a:hover {
+  background: transparent;
+  color: rgb(9, 252, 211);
+  transition: 0.5s;
+}

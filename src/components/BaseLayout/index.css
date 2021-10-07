@@ -1,0 +1,10 @@
+.content {
+  background-color: #32444b;
+  }
+
+.first-header, .second-header, .third-header, .fourth-header {
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  background-position: center;
+}

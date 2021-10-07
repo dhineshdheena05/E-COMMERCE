@@ -1,0 +1,11 @@
+.footer {
+  height: 3em;
+  background-color: rgb(253, 6, 6);
+  color: rgb(10, 10, 10);
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: bolder;
+}
